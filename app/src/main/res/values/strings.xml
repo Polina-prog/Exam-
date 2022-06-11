@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string-array name="monthes">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string name="horoscope">Horoscope</string>
+    <string name="enter">To find out the horoscope, you need to enter your date of birth:</string>
+    <string name="get">Next</string>
+    <string name="day">Day:</string>
+    <string name="month">Month:</string>
+    <string name="year">Year:</string>
+    <string name="fact">Fact of the day</string>
+    <string name="back"> ⬹ Сhange zodiac sign </string>
+    <string name="close"> ╳ </string>
+</resources>
